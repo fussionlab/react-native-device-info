@@ -43,6 +43,18 @@ const devicesWithNotch: NotchDevice[] = [
   },
   {
     brand: 'Huawei',
+    model: 'P10',
+  },
+  {
+    brand: 'Huawei',
+    model: 'P10 Plus',
+  },
+  {
+    brand: 'Huawei',
+    model: 'P10 Lite',
+  },
+  {
+    brand: 'Huawei',
     model: 'P20',
   },
   {
